@@ -5,7 +5,7 @@ Hello World site
 
 Run any HTTP server to serve your client-rendered site, such as `SimpleHTTPServer`:
 ```
-cd starter/client-rendered/
+cd 1_starter/client-rendered/
 python -m SimpleHTTPServer 8000
 ```
 
@@ -18,7 +18,7 @@ Run `npm install` the first time to get your app dependencies.
 
 Run your server-rendered app:
 ```
-cd starter/client-rendered/
+cd 1_starter/client-rendered/
 node app.js
 ```
 

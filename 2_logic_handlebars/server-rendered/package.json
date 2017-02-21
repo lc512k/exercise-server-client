@@ -1,5 +1,5 @@
 {
-  "name": "1_starter-server-rendered",
+  "name": "2_logic_handlebars-server-rendered",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0"
   }
 }

@@ -2,14 +2,19 @@ const express = require('express');
 const app = express();
 
 app.get('/', function (req, res) {
-	const randomNumber = Math.ceil(Math.random() * 10);
+
+	const colorNames = ['red', 'orange', 'green'];
+
+	const randomIndex = Math.floor(Math.random() * 3);
+
+	const randomColorName = colorNames[randomIndex];
 
 	const markup = `
 	<html>
 		<body>
-			<h1>Random number generator (server)</h1>
+			<h1>Random color generator (server)</h1>
 
-			Your number is: <span id="random-number">${randomNumber}</span>
+			Your random color is: <span id="random-color">${randomColorName}</span>
 		</body>
 	</html>
 	`;
