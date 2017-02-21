@@ -8,12 +8,12 @@ npm install
 
 ##Starter
 
-(Hello World site)[starter/README.md]
+[Hello World site](starter/README.md)
 
 ##With Logic
 
-(Random Number Generator)[no-handlebars/README.md]
-(Random Number Generator)[handlebars/README.md]
+[Random Number Generator](../blob/master/no-handlebars/README.md)
+[Random Number Generator](../blob/master/handlebars/README.md)
 
 #progressive enhancement
 
