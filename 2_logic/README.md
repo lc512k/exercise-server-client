@@ -1,7 +1,9 @@
 #With Logic
-Random Number Generator
+Random Color Generator. Site that generates a random color name between `red`, `orange` and `green`, implemented both as a client-rendered  and a server-rendered site.
 
-##Client App
+The client-rendered version of this app breaks when JS is turned off in the browser. The server-rendered version works as expected.
+
+##Client-rendered site
 
 Run a simple HTTP server in your client-rendered folder to serve static HTML pages
 ```
@@ -12,7 +14,7 @@ python -m SimpleHTTPServer 8000
 Navigate to `localhost:8000`
 
 
-##Server App
+##Server-rendered site
 
 Run your server-rendered app
 ```
