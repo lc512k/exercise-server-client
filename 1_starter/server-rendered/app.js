@@ -1,4 +1,3 @@
-
 const express = require('express');
 const app = express();
 
@@ -7,5 +6,5 @@ app.get('/', function (req, res) {
 })
 
 app.listen(process.env.PORT || 8001, () => {
-	console.log('listening on port 8001');
+	console.log('1_starter app: listening on port 8001');
 });

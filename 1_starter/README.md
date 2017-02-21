@@ -3,7 +3,7 @@ Hello World site
 
 ##Client App
 
-Run any HTTP server to serve your client-rendered site such as `SimpleHTTPServer`:
+Run any HTTP server to serve your client-rendered site, such as `SimpleHTTPServer`:
 ```
 cd starter/client-rendered/
 python -m SimpleHTTPServer 8000
