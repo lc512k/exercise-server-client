@@ -1,4 +1,7 @@
-#Client App
+#With Logic
+Random Number Generator
+
+##Client App
 
 Run a simple HTTP server in your client-rendered folder to serve static HTML pages
 ```
@@ -9,7 +12,7 @@ python -m SimpleHTTPServer 8000
 Navigate to `localhost:8000`
 
 
-#Server App
+##Server App
 
 Run your server-rendered app
 ```
