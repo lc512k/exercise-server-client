@@ -10,11 +10,11 @@ Compare running each with JS turned on and off on the browser
 ##With Logic
 
 ###Without Handlebars
-[Random Color Generator](../blob/master/2_logic/README.md)
+[Random Color Generator](2_logic/README.md)
 
 ###With Handlebars
-[Random Color Generator](../blob/master/2_logic_handlebars/README.md)
+[Random Color Generator](2_logic_handlebars/README.md)
 
 ##Progressive Enhancement
 
-[Random Color Generator Enhanced](../blob/master/3_progressive/README.md)
+[Random Color Generator Enhanced](3_progressive/README.md)

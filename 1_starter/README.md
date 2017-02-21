@@ -24,4 +24,4 @@ node app.js
 
 Navigate to `localhost:8001`
 
-[*]: Since this app doesn't really have any JS to excecute it doesn't really qualify as client-rendered, but it serves as a base to build the more complex apps in this repo.
+[*]: Since this site doesn't have any JS to excecute, it doesn't really qualify as client-rendered, but it serves as a base to build the more complex apps in this repo.
