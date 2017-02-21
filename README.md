@@ -1,10 +1,5 @@
 #Server vs Client Rendered app
-A repository of example sites written both as server-rendered and client-rendered
-
-Before running the apps, get all their dependencies by doing:
-```
-npm install
-```
+A repository of example sites written both as server-rendered and client-rendered sites
 
 ##Starter
 
