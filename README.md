@@ -9,10 +9,12 @@ Compare running each with JS turned on and off on the browser
 
 ##With Logic
 
-[Random Number Generator](../blob/master/2_logic/README.md)
+###Without Handlebars
+[Random Color Generator](../blob/master/2_logic/README.md)
 
-#progressive enhancement
+###With Handlebars
+[Random Color Generator](../blob/master/2_logic_handlebars/README.md)
 
-[Some other thing](../blob/master/3_progressive/README.md)
+#Progressive Enhancement
 
-#isomorphic
+[Random Color Generator Enhanced](../blob/master/3_progressive/README.md)

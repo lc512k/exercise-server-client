@@ -1,5 +1,5 @@
 #Starter
-Hello World site
+Hello World site.
 
 ##Client App
 
@@ -18,7 +18,7 @@ Run `npm install` the first time to get your app dependencies.
 
 Run your server-rendered app:
 ```
-cd 1_starter/client-rendered/
+cd 1_starter/server-rendered/
 node app.js
 ```
 

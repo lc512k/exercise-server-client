@@ -16,7 +16,7 @@ Navigate to `localhost:8000`
 
 Run your server-rendered app
 ```
-cd 3_progressive/client-rendered/
+cd 3_progressive/server-rendered/
 node app.js
 ```
 

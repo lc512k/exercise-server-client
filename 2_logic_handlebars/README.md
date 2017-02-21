@@ -16,7 +16,7 @@ Navigate to `localhost:8000`
 
 Run your server-rendered app
 ```
-cd 2_logic_handlebars/client-rendered/
+cd 2_logic_handlebars/server-rendered/
 node app.js
 ```
 
