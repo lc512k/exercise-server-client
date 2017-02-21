@@ -1,4 +1,4 @@
-#Server vs Client Rendered app
+#Server vs Client Rendered Sites
 A repository of example sites written both as server-rendered and client-rendered sites
 
 Compare running each with JS turned on and off on the browser
@@ -15,6 +15,6 @@ Compare running each with JS turned on and off on the browser
 ###With Handlebars
 [Random Color Generator](../blob/master/2_logic_handlebars/README.md)
 
-#Progressive Enhancement
+##Progressive Enhancement
 
 [Random Color Generator Enhanced](../blob/master/3_progressive/README.md)

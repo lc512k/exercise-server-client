@@ -1,7 +1,7 @@
 #Starter
 Hello World site. One "Hello World" page served as both a static html file and rendered from our own node server.
 
-##Client-rendered* site
+##[Client-rendered][1] site
 
 Run any HTTP server to serve your static site, such as `SimpleHTTPServer`:
 ```
@@ -24,4 +24,4 @@ node app.js
 
 Navigate to `localhost:8001`
 
-* Since this app doesn't really have any JS to excecute it doesn't really qualify as client-rendered, but it serves as a base to build the more complex apps in this repo.
+[1]: Since this app doesn't really have any JS to excecute it doesn't really qualify as client-rendered, but it serves as a base to build the more complex apps in this repo.
