@@ -1,16 +1,22 @@
-#starter
+#Server vs Client Rendered app
+A repository of example sites written both as server-rendered and client-rendered
 
-client-rendered
-server-rendered
+Before running the apps, get all their dependencies by doing:
+```
+npm install
+```
 
-#with handlebars
+##Starter
 
-client-rendered
-server-rendered
+(Hello World site)[starter/README.md]
+
+##With Logic
+
+(Random Number Generator)[no-handlebars/README.md]
+(Random Number Generator)[handlebars/README.md]
 
 #progressive enhancement
 
-client-rendered
-server-rendered
+(???)[progressive/README.md]
 
 #isomorphic
