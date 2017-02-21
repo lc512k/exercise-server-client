@@ -1,9 +1,11 @@
 #With Logic
 Random Color Generator. Site that generates a random color name between `red`, `orange` and `green`, implemented both as a client-rendered  and a server-rendered site.
 
+The color name is displayed in its respective color on the browser (enhancement).
+
 Nothing is rendered for the client-rendered version of this site when JS is turned off in the browser.
 
-The server-rendered version works as expected, minus the enhancements.
+The server-rendered version works as expected with JS turned off, minus the enhancements.
 
 ##Client-rendered site
 
