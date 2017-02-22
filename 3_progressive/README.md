@@ -5,7 +5,7 @@ The color name is displayed in its respective color on the browser (enhancement)
 
 Nothing is rendered for the client-rendered version of this site when JS is turned off in the browser.
 
-The server-rendered version works as expected with JS turned off, minus the enhancements.
+The server-rendered version works as expected with JS turned off, minus the enhancement.
 
 ##Client-rendered site
 

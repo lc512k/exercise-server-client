@@ -1,7 +1,9 @@
 #With Logic
 Random Color Generator. Site that generates a random color name between `red`, `orange` and `green`, implemented both as a client-rendered  and a server-rendered site.
 
-The client-rendered version of this app breaks when JS is turned off in the browser. The server-rendered version works as expected.
+The client-rendered version of this app breaks when JS is turned off in the browser.
+
+The server-rendered version works as expected.
 
 ##Client-rendered site
 
